@@ -1,0 +1,6 @@
+{
+  "name": "JARVIS OS",
+  "description": "A production-grade, privacy-first AI desktop operating system inspired by Iron Man's JARVIS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
